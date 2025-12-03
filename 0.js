@@ -1,13 +1,13 @@
 [
 {
-    "name": "Về bờ TV",
-    "url": "https://vbtv.pro",
-    "logo": "https://vbtv.pro/vebo-icon.png"
-},
-{
     "name": "Thập Cẩm TV",
     "url": "https://tctv.pro",
     "logo": "https://tctv.pro/10cam-logo-app-light.jpg"
+},
+{
+    "name": "Về bờ TV",
+    "url": "https://vbtv.pro",
+    "logo": "https://vbtv.pro/vebo-icon.png"
 },
 {
     "name": "Thập Cẩm Về Bờ",
@@ -40,7 +40,7 @@
     "logo": "https://zzzzvvvv.github.io/img/hq2.png"
 },
 {
-    "name": "Kênh TV vmttv",
+    "name": "Kênh TV VMTTV",
     "url": "https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv",
     "logo": "https://zzzzvvvv.github.io/img/vmttv.png"
 },
@@ -55,7 +55,7 @@
     "logo": ""
 },
 {
-    "name": "Phim Tổng Hợp - THVLi",
+    "name": "Phim THVLi",
     "url": "https://iptv.cameraddns.net",
     "logo": "https://www.thvli.vn/static/media/logo.png"
 },
@@ -100,7 +100,7 @@
     "logo": "https://iptv.anime47.net/logo.png"
 },
 {
-    "name": "Nhạc",
+    "name": "Nghe Nhạc",
     "url": "https://media.hth4nh.eu.org/home",
     "logo": "https://media.hth4nh.eu.org/static/img/logo-zzz.png"
 },
