@@ -179,7 +179,6 @@
     "url": "https:\/\/raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda.m3u",
     "logo": "https:\/\/zzzzvvvv.github.io/img/bong.png"
   },
-  
   {
     "name": "Bóng đá 2",
     "url": "https:\/\/raw.githubusercontent.com/t23-02/bongda/refs/heads/main/bongda2.m3u",
@@ -194,7 +193,7 @@
     "name": "Ace Sport",
     "url": "https:\/\/kutt.it\/acehd",
     "logo": "https:\/\/zzzzvvvv.github.io/img/ace.png"
-  }
+  },
   {
     "name": "Kênh TV vmttv",
     "url": "https:\/\/raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vmttv",
@@ -204,5 +203,5 @@
     "name": "Live Sport",
     "url": "https:\/\/livesport.io.vn\/easport",
     "logo": "https:\/\/zzzzvvvv.github.io/img/livesport.png"
-  },
+  }
 ]
